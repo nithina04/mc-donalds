@@ -1,0 +1,274 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+    
+}
+body{
+    width: 100%;
+    height: vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.mc{
+    margin-top: 20px;
+    width: 100%;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    box-shadow: rgba(128, 128, 128,.6)0px 1px 1px;
+    
+    
+    
+    
+    
+}
+.md{
+    width: 100px;
+    position: absolute;
+    left: 100px;
+
+
+}
+
+ .mc.left img{
+    width: 80px;
+    margin-right: 5px;
+    padding-top: 1px;
+    justify-content: center;
+    align-items: center;
+}
+.right .donalds ul li{
+    width: 500px;
+    justify-content:left;
+    list-style: none;
+    display: inline;
+    justify-content: space-around;
+    
+    
+    
+
+}
+.donalds
+{
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+.first1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.base ul li{
+    display: flex;
+    position: absolute;
+    left: -30;
+    margin-right: 20px;
+    justify-content: space-evenly;
+}
+
+.fields{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: right;
+    padding-bottom: 20px;
+
+
+    
+}
+.fields .order-now{
+    display: flex;
+}
+
+.btn1{
+    display: flex;
+}
+
+.seconds{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+}
+ .second ul li{
+    display: flex;
+    margin-right: 20px;
+    display: inline;
+    justify-content: space-around;
+    
+    
+    
+}
+.main{
+    
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2%;
+
+}
+.main1 {
+    width:85% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.other{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    margin: 20px;
+
+}
+
+
+  .main .main1 img{
+    width: 500px;
+    display: flex;
+    float: left;
+    justify-content: left;
+    position: relative;
+    padding-right: 30px;
+}
+  .button {
+    display: flex;
+    float: right;
+    background-color:#ffbc0d ;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #ffbc0d;
+    font-style: none;
+    
+}
+.btn{
+    display: flex;
+    float: left;
+    font-style: none;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    justify-content: space-around;
+    color: black;
+    background-color: white;
+    font-family: sans-serif;
+
+}
+.foot {
+    display: flex;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+    color: black;
+    background-color: white;
+    
+
+
+}
+.list p,h2{
+    float: left;
+    font-size: medium;
+    margin-bottom: 10px;
+    margin-right: 90px;
+}
+
+.last{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 12px;
+    flex-direction: row;
+    
+    padding-bottom: 2px;
+}
+.left-last  img{
+    width: 50px;
+    padding: 6px;
+    margin: 3px;
+    float: left;
+    
+
+}
+ .right-last img{
+    width: 100px;
+    float: right;
+    padding-bottom: 30px;
+
+}
+.final {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    
+}
+.final1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+    
+}
+.final1-items {
+    display: flex;
+    width: 100%;
+    
+    margin-right: 20px;
+    
+}
+.final1-items p{
+    
+    margin-left: 30px;
+}
+
+.final2-items {
+    width: 100%;
+    display: flex;
+    
+    margin-left: 30px;
+
+    justify-content:start;
+    
+    
+}
+.final2-items p{
+    margin-right: 20px;
+}
+.right-final img{
+    display: flex;
+    float: right;
+    margin-right: 50px;
+
+    justify-content: space-between;
+    
+
+}
+.text-final p{
+    display: flex;
+    float: right;
+    padding-bottom: 20px;
+    margin-right: 50px;
+    justify-content: space-evenly;
+}
+.final1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
